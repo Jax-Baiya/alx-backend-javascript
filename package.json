@@ -1,7 +1,7 @@
 {
   "name": "alx-backend-javascript",
   "version": "1.0.0",
-  "description": "![Repo size](https://img.shields.io/github/repo-size/B3zaleel/alx-backend-javascript) ![Repo License](https://img.shields.io/github/license/B3zaleel/alx-backend-javascript.svg) ![Latest commit](https://img.shields.io/github/last-commit/B3zaleel/alx-backend-javascript/main?style=round-square)",
+  "description": "![Repo size](https://img.shields.io/github/repo-size/Jax-Baiya/alx-backend-javascript) ![Repo License](https://img.shields.io/github/license/Jax-Baiya/alx-backend-javascript.svg) ![Latest commit](https://img.shields.io/github/last-commit/Jax-Baiya/alx-backend-javascript/main?style=round-square)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
